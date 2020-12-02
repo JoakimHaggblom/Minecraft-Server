@@ -1,0 +1,26 @@
+
+
+
+h1,h2,h3,h4,h5,h5,h6{
+font-size: 1em;
+    display: block;
+    margin-left: 0.2em;
+}
+
+
+
+
+footer{
+font-size: 1em;
+display: block;
+
+    
+    
+}
+
+img {
+    height: 10em;
+    margin-bottom: 0.5em;
+    border: 0.2em solid black;
+    margin-left: 0.2em;
+}
