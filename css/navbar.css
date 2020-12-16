@@ -4,16 +4,31 @@
 
 }
 
-.links {
+div .links {
     font-size: 1.5em;
     text-decoration: none;
     border: 0.2em solid red;
     padding: 1em;
     display: inline-block;
     background-color: grey;
-    color: black;
+    
+  
     flex: 12.5em;
     text-align: center;
-
+    width: 200px;
+    line-height: 35px;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+    font-size: 1.5rem;  
+    /* relative storlek till root element     */
+    background-color: red;
+    color:grey;
+    text-shadow: 2px 2px 2px black;
+    border-radius: 0.6em;
+    border: 0.16em solid black;
+    background-image: linear-gradient(to top left, rgba(0,0,0,0.2), rgba(0,0,0,0.2) 30%, rgba(0,0,0,0));
+    box-shadow: 1px 1px 1px black, inset 2px 1px 1px rgba(255,255,255,0.6), inset -2px -2px 3px rgba(0,0,0,0.6);
 
 }
